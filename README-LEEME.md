@@ -5,4 +5,4 @@
 Para ejectura el sistema,debes poner:
 
 ```npm install react ```
--Sitemas de Registro 2
+-Sitemas de Registro 2.
